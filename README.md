@@ -1,8 +1,8 @@
 # tron-wallet-secp256k1
 
-`tron-wallet-secp256k1` is a high-performance elliptic curve cryptography library specifically designed for blockchain wallets. 
+This library provides secp256k1 bindings for Swift with Cocoapods.
 
-All credits for the original source code goes to [bitcoin-core](https://github.com/bitcoin-core).
+All credits for the original source code goes to [bitcoin-core](https://github.com/bitcoin-core/secp256k1).
 
 ## Example
 
