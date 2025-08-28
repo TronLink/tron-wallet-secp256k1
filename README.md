@@ -4,10 +4,6 @@ This library provides secp256k1 bindings for Swift with Cocoapods.
 
 All credits for the original source code goes to [bitcoin-core](https://github.com/bitcoin-core/secp256k1).
 
-## Example
-
-To run the example project, clone the repo, and run `pod install` from the Example directory first.
-
 ## Requirements
 
 - iOS 13.0+
