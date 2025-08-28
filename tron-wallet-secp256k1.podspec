@@ -1,8 +1,8 @@
 Pod::Spec.new do |spec|
     spec.name         = 'tron-wallet-secp256k1'
-    spec.version      = '0.1.0'
+    spec.version      = '1.0.0'
     spec.ios.deployment_target = "13.0"
-    spec.license      = { :type => 'Apache License 2.0', :file => 'License.md' }
+    spec.license      = { :type => 'MIT', :file => 'LICENSE.md' }
     spec.summary      = 'secp256k1 module for tron-wallet-web3swift'
     spec.homepage     = 'https://github.com/TronLink/tron-wallet-secp256k1'
     spec.author       = 'tronlinkdev'
